@@ -2,7 +2,4 @@
 
 ![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shade0122&show_icons=true&theme=dracula)
 
-<img src="https://raw.githubusercontent.com/Shade0122/stats/master/generated/overview.svg">
-<img src="https://raw.githubusercontent.com/Shade0122/stats/master/generated/languages.svg">
-
 <img src="https://komarev.com/ghpvc/?username=Shade0122" alt="Shade0122" />
