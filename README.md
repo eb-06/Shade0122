@@ -1,5 +1,3 @@
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eb-06&count_private=true&theme=dracula" alt="eb-06" />
-
-![eb's GitHub stats](https://github-readme-stats.vercel.app/api?username=eb-06&show_icons=true&theme=dracula)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/613662019190521857)](https://discord.com/users/613662019190521857) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eb-06&layout=compact&hide_border=true&bg_color=1A1C1F)
 <img src="https://komarev.com/ghpvc/?username=eb-06" alt="eb-06" />
