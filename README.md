@@ -6,4 +6,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualㅤStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=eb-06" alt="eb-06" />
+<img src="https://komarev.com/ghpvc/?username=eb-06" alt="eb" />
