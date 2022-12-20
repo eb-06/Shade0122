@@ -6,6 +6,6 @@
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## Programming Tools
+## Tools
 ![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualㅤStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
