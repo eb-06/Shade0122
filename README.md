@@ -8,4 +8,4 @@
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-1B8CD4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualㅤStudio-A87ADE?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VisualㅤStudio-5E4190?style=for-the-badge&logo=visualstudio&logoColor=white)
