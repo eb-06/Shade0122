@@ -4,7 +4,8 @@
 ## Familiar Programming Languages
 ![Lua](https://img.shields.io/badge/lua-000079?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD63C?style=for-the-badge&logo=python&logoColor=black)
-![CSharp](https://img.shields.io/badge/csharp-1C9623?style=for-the-badge&logo=csharp&logoColor=white)
+![CSharp/C#](https://img.shields.io/badge/csharp-1C9623?style=for-the-badge&logo=csharp&logoColor=white)
+![CPP/C++](https://img.shields.io/badge/csharp-1C9623?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Familiar Tools
 ![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-1B8CD4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
